@@ -2,24 +2,6 @@
 
 This is a basic Banking System application implemented in C#. The project is designed to manage accounts, account types, and transactions.
 
-## Project Structure
-
-Banking System/
-├── BankingSystem.zip
-├── BankingSystem/
-│   ├── BankingSystem.csproj
-│   ├── BankingSystem.sln
-│   ├── Program.cs
-│   ├── Models/
-│   │   ├── Account.cs
-│   │   ├── AccountType.cs
-│   │   └── Transaction.cs
-│   ├── Services/
-│   │   └── AccountService.cs
-│   ├── bin/
-│   └── obj/
-
-
 ## Description
 
 - **BankingSystem.csproj**: Project file containing configurations and dependencies.
